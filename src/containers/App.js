@@ -10,7 +10,7 @@ import '../App.css';
 import AdminLogin from './AdminLogin';
 
 import AdminContainer from './AdminContainer';
-import PrivateRoute from '../privateRoute';
+import PrivateRoute from '../PrivateRoute';
 
 
 
